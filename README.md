@@ -1,2 +1,2 @@
 # assignmentdata1
-data analysis using panadas
+data analysis using pandas,numpy , matplotlib
